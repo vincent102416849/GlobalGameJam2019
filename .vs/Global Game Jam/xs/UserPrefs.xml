@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6186265B-0AF9-E188-59F4-373F7FDD17EA}|">
+  <MonoDevelop.Ide.ItemProperties.Global_220Game_220Jam PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EventManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Target.cs" Line="22" Column="36" />
+      <File FileName="Assets/Scripts/Building.cs" Line="25" Column="14" />
+      <File FileName="Assets/Scripts/GameEvent.cs" Line="7" Column="18" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="9" Column="31" />
+      <File FileName="Assets/Scripts/Player.cs" Line="25" Column="40" />
+      <File FileName="Assets/Scripts/Movable.cs" Line="20" Column="13" />
+      <File FileName="Assets/Scripts/EventManager.cs" Line="8" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

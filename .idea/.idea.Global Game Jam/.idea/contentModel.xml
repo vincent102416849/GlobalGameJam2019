@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Global Game Jam.-1713404889.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ChosenChar.cs" t="Include" />
+        <e p="Hand-Drawn" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Fill" t="Include">
+              <e p="Fill_QuantizedTextured.shader" t="Include" />
+            </e>
+            <e p="Fill+Outline" t="Include">
+              <e p="OverdrawnOutline+GreyscaleFill.shader" t="Include" />
+              <e p="TexturedOutline+QuantizedTexturedFill.shader" t="Include" />
+            </e>
+            <e p="Outline" t="Include">
+              <e p="Outline_AnimatedTextured.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AudioController.cs" t="Include" />
+            <e p="BackgroundCamera.cs" t="Include" />
+            <e p="Building.cs" t="Include" />
+            <e p="EventManager.cs" t="Include" />
+            <e p="GameEvent.cs" t="Include" />
+            <e p="MainGameController.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="chooseAnimation.cs" t="Include" />
+          <e p="exit.cs" t="Include" />
+          <e p="Parents.cs" t="Include" />
+          <e p="SceneTrans.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Target.cs" t="Include" />
+        </e>
+        <e p="setUpChar.cs" t="Include" />
+        <e p="ThirdLeve" t="Include">
+          <e p="TargetOld.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Global Game Jam.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

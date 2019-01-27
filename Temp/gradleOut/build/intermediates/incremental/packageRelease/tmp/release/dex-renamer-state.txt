@@ -1,0 +1,4 @@
+#Sun Jan 27 11:20:20 GMT 2019
+base.0=/Users/Vincent/Unity Projects/Global Game Jam/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
